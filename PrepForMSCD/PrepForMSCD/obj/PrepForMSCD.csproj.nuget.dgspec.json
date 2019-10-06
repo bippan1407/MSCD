@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MegaSync\\MEGAsync\\code\\DotNet\\MSCD\\PrepForMSCD\\PrepForMSCD\\PrepForMSCD.csproj": {}
+  },
+  "projects": {
+    "E:\\MegaSync\\MEGAsync\\code\\DotNet\\MSCD\\PrepForMSCD\\PrepForMSCD\\PrepForMSCD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MegaSync\\MEGAsync\\code\\DotNet\\MSCD\\PrepForMSCD\\PrepForMSCD\\PrepForMSCD.csproj",
+        "projectName": "PrepForMSCD",
+        "projectPath": "E:\\MegaSync\\MEGAsync\\code\\DotNet\\MSCD\\PrepForMSCD\\PrepForMSCD\\PrepForMSCD.csproj",
+        "packagesPath": "C:\\Users\\IRON-MAN\\.nuget\\packages\\",
+        "outputPath": "E:\\MegaSync\\MEGAsync\\code\\DotNet\\MSCD\\PrepForMSCD\\PrepForMSCD\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IRON-MAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

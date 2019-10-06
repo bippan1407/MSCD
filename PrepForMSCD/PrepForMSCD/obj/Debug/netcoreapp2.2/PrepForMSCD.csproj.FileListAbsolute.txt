@@ -1,0 +1,11 @@
+E:\MegaSync\MEGAsync\code\DotNet\PrepForMSCD\PrepForMSCD\bin\Debug\netcoreapp2.2\PrepForMSCD.deps.json
+E:\MegaSync\MEGAsync\code\DotNet\PrepForMSCD\PrepForMSCD\bin\Debug\netcoreapp2.2\PrepForMSCD.runtimeconfig.json
+E:\MegaSync\MEGAsync\code\DotNet\PrepForMSCD\PrepForMSCD\bin\Debug\netcoreapp2.2\PrepForMSCD.runtimeconfig.dev.json
+E:\MegaSync\MEGAsync\code\DotNet\PrepForMSCD\PrepForMSCD\bin\Debug\netcoreapp2.2\PrepForMSCD.dll
+E:\MegaSync\MEGAsync\code\DotNet\PrepForMSCD\PrepForMSCD\bin\Debug\netcoreapp2.2\PrepForMSCD.pdb
+E:\MegaSync\MEGAsync\code\DotNet\PrepForMSCD\PrepForMSCD\obj\Debug\netcoreapp2.2\PrepForMSCD.csprojAssemblyReference.cache
+E:\MegaSync\MEGAsync\code\DotNet\PrepForMSCD\PrepForMSCD\obj\Debug\netcoreapp2.2\PrepForMSCD.csproj.CoreCompileInputs.cache
+E:\MegaSync\MEGAsync\code\DotNet\PrepForMSCD\PrepForMSCD\obj\Debug\netcoreapp2.2\PrepForMSCD.AssemblyInfoInputs.cache
+E:\MegaSync\MEGAsync\code\DotNet\PrepForMSCD\PrepForMSCD\obj\Debug\netcoreapp2.2\PrepForMSCD.AssemblyInfo.cs
+E:\MegaSync\MEGAsync\code\DotNet\PrepForMSCD\PrepForMSCD\obj\Debug\netcoreapp2.2\PrepForMSCD.dll
+E:\MegaSync\MEGAsync\code\DotNet\PrepForMSCD\PrepForMSCD\obj\Debug\netcoreapp2.2\PrepForMSCD.pdb
