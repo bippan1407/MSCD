@@ -19,7 +19,7 @@ namespace PrepForMSCD
             //NewAttribute.AttributeDisplay(typeof(Employee));
 
             InputOutputOperations iop = new InputOutputOperations();
-            iop.Appendtext();
+            iop.CompressionAndDecompression();
             Console.WriteLine("\n\nend");
         }
     }
