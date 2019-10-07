@@ -6,7 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Teacher\" />
+    <Compile Remove="Teacher\**" />
+    <EmbeddedResource Remove="Teacher\**" />
+    <None Remove="Teacher\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Multithreading\" />
   </ItemGroup>
 
 </Project>

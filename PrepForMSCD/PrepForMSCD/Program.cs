@@ -1,6 +1,7 @@
 ﻿using PrepForMSCD.CustomAttribute;
 using PrepForMSCD.Delegates;
 using PrepForMSCD.InputOutput;
+using PrepwayMSCD.Delegates;
 using System;
 
 namespace PrepForMSCD
@@ -18,8 +19,10 @@ namespace PrepForMSCD
 
             //NewAttribute.AttributeDisplay(typeof(Employee));
 
-            InputOutputOperations iop = new InputOutputOperations();
-            iop.CompressionAndDecompression();
+            //InputOutputOperations iop = new InputOutputOperations();
+            //iop.CompressionAndDecompression();
+
+            DelegatesOperation.Operations();
             Console.WriteLine("\n\nend");
         }
     }
