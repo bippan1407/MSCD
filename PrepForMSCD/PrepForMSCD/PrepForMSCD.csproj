@@ -11,8 +11,4 @@
     <None Remove="Teacher\**" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Multithreading\" />
-  </ItemGroup>
-
 </Project>

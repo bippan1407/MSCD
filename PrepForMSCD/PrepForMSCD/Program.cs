@@ -1,14 +1,17 @@
 ﻿using PrepForMSCD.CustomAttribute;
 using PrepForMSCD.Delegates;
 using PrepForMSCD.InputOutput;
+using PrepForMSCD.Multithreading;
+using PrepForMSCD.Tasks;
 using PrepwayMSCD.Delegates;
 using System;
+using System.Threading;
 
 namespace PrepForMSCD
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("start\n\n");
             //StudentDelegate call = new StudentDelegate();
@@ -22,7 +25,20 @@ namespace PrepForMSCD
             //InputOutputOperations iop = new InputOutputOperations();
             //iop.CompressionAndDecompression();
 
-            DelegatesOperation.Operations();
+            //DelegatesOperation.Operations();
+
+            //Thread thread = new Thread(new ThreadStart(ThreadingConcept.StartBike));
+            //thread.Start();
+            //thread.Join();
+            //ThreadingConcept.CarThread();
+
+            //MultiTasking.StartTask();
+
+            //ThreadingConcept.ParallelForLoop();
+
+            ThreadingConcept.PLinq();
+
+
             Console.WriteLine("\n\nend");
         }
     }
